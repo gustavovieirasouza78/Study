@@ -8,7 +8,7 @@ public class PublicaWebService {
 		
 		EstoqueWS estoqueWS = new EstoqueWS();
 		
-		String url = "http://localhost:8080/estoquews";
+		String url = "http://localhost:8081/estoquews";
 		
 		System.out.println("Webservice Rodando... " + url + "?wsdl");
 		
