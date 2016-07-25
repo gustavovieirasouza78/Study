@@ -12,7 +12,7 @@ public class MovimentacaoDao {
 
 	public MovimentacaoDao(EntityManager manager) {
 		this.manager = manager;
-		// TODO Auto-generated constructor stub
+		// TODO Auto-generated constructor stubbnmbnm n
 	}
 
 	public Double mediaDAContaPeloTipo(Conta conta, TipoMovimentacao tipoMovimentacao) {
